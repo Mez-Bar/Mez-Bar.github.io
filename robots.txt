@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Mez-Bar.github.io/al-folio/sitemap.xml
+Sitemap: https://Mez-Bar.github.io/sitemap.xml
